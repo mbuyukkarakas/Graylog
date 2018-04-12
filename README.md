@@ -8,7 +8,7 @@ How to setup :
 
 It's recommended to redirect all Linux logs to syslog like ;
 
-*.* @graylog-server:10514
+* . * @graylog-server:10514
 
 Greetings.
 
